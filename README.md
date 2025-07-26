@@ -1,6 +1,7 @@
 # 🤖 Multi-Agent Financial Assistant
 
 A **Proof of Concept (POC)** demonstrating how AI agents work together for financial analysis and web search.
+You can check it out on https://ai-financial-agent-poc.streamlit.app/ (The backend is not deployed so it might not run all the time but you can see how the UI looks like)
 
 > **Note**: This is a demonstration project to showcase AI agent capabilities and workflows.
 
