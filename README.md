@@ -51,8 +51,6 @@ groq
 yfinance
 duckduckgo-search
 python-dotenv
-pandas
-numpy
 ```
 
 ---
