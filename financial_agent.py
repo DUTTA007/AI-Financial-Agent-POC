@@ -44,4 +44,4 @@ multi_agent = Agent(
     markdown = True
 )
 
-multi_agent.print_response("Summarize analyst recommendation and share the latest news for NV")
+multi_agent.print_response("Summarize analyst recommendation and share the latest news for Meta")
